@@ -1,6 +1,3 @@
-student name: Hien Le
-student number: 101044264
-
 To run this app you need a personal Paypal Account
 You can create on at paypal.com
 
