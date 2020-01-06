@@ -1,6 +1,6 @@
 
 _note_ : To see the transaction process, you need a personal Paypal Account
-You can create on at paypal.com
+You can create on at https://paypal.com
 
 1. ### Changing paypal account
     - Visit checkout.js file then change `client_id` and `client_secret` with your
